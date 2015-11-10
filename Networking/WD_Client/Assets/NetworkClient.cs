@@ -19,7 +19,7 @@ public class NetworkClient : MonoBehaviour
 
     private void StartClient()
     {
-        string serverIP   = "127.0.0.1";
+        string serverIP   = "compcst.cloudapp.net";
         int    serverPort = 25001;
         string username   = "Jeff";
         string matchID    = "4fg7-38g3-d922-f75g-48g6";
